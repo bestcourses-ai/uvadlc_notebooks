@@ -3,7 +3,7 @@ UvA Deep Learning Tutorials
 
 *Note: To look at the notebooks in a nicer format, visit our RTD website: https://uvadlc-notebooks.readthedocs.io/en/latest/*
 
-*Course website*: https://uvadlc.github.io/<br>
+*Course website*: https://uvadlc.github.io/<br>  , This is another great course pytorch based: https://sebastianraschka.com/blog/2021/dl-course.html#part-4-deep-learning-for-computer-vision-and-language-modeling
 *Course edition*: Fall 2020 (Oct. 26 - Dec. 14)</br>
 *Recordings*: [YouTube Playlist](<https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA>)</br>
 *Author*: Phillip Lippe
